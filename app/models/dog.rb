@@ -10,5 +10,5 @@ class Dog(name, breed, age)
   @age = age
   
   @@all << self
-end
+  end
 end
