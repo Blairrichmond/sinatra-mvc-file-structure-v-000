@@ -11,3 +11,4 @@ class Dog(name, breed, age)
   
   @@all << self
 end
+end
